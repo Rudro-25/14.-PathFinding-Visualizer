@@ -2,5 +2,4 @@
  It's A Path Finding Visulizer
 
 
-
-Check it out by clicking [here](https://github.com/Rudro-25)
+[DEMO](https://rudro-25.github.io/14.-PathFinding-Visualizer/)
